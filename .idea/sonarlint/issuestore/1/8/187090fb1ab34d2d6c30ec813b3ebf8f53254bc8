@@ -1,0 +1,6 @@
+
+Fpython:S14816"'Remove the unused local variable "fig".(œ–‚¾8‘ òµª1
+python:S1542J"]Rename function "traintingSet_testingSet" to match the regular expression ^[a-z_][a-z0-9_]*$.(¹ß÷Èøÿÿÿÿ8“ òµª1
+~python:S117`"`Rename this local variable "accuracyInEpoch" to match the regular expression ^[_a-z][a-z0-9_]*$.(Şéùá8“ òµª1
+zpython:S117_"\Rename this local variable "lossInEpoch" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÈÅ¼ì8“ òµª1
+vpython:S117b"XRename this local variable "lossNum" to match the regular expression ^[_a-z][a-z0-9_]*$.(–«Õ“8“ òµª1

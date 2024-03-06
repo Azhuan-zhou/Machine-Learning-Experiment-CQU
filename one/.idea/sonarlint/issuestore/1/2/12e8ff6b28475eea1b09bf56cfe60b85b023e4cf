@@ -1,0 +1,21 @@
+
+mpython:S117"ORename this parameter "inX" to match the regular expression ^[_a-z][a-z0-9_]*$.(ì†×¤8ã×ÿéª1
+xpython:S117 "ZRename this local variable "dataIndex" to match the regular expression ^[_a-z][a-z0-9_]*$.(÷úëÅ8æ™€êª1
+vpython:S117"XRename this local variable "maxIter" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ë¬¿­8ç™€êª1
+python:S117"\Rename this local variable "numFeatures" to match the regular expression ^[_a-z][a-z0-9_]*$.(˜ıŞöÿÿÿÿÿ8ç™€êª1
+~python:S117"[Rename this local variable "numSamples" to match the regular expression ^[_a-z][a-z0-9_]*$.(˜ıŞöÿÿÿÿÿ8ç™€êª1
+}python:S117#"ZRename this local variable "randIndex" to match the regular expression ^[_a-z][a-z0-9_]*$.(­˜–ÿÿÿÿÿ8ç™€êª1
+}python:S117"ZRename this local variable "startTime" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÒÂË€ÿÿÿÿÿ8ñ‰ƒêª1
+spython:S1542
+"TRename function "trainLogRegres" to match the regular expression ^[a-z_][a-z0-9_]*$.(°îºı8ç™€êª1
+Zpython:PrintStatementUsage+"-Replace print statement by built-in function.(£Âª’8ç™€êª1
+Xpython:S905,":Remove or refactor this statement; it has no side effects.(ášŒò8ç™€êª1
+~python:S1173"[Rename this local variable "matchCount" to match the regular expression ^[_a-z][a-z0-9_]*$.(âÆ¢úÿÿÿÿ8ç™€êª1
+zpython:S1172"\Rename this local variable "numFeatures" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÁÉƒç8ç™€êª1
+ypython:S1172"[Rename this local variable "numSamples" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÁÉƒç8ç™€êª1
+rpython:S15421"SRename function "testLogRegres" to match the regular expression ^[a-z_][a-z0-9_]*$.(„ô¡Å8ç™€êª1
+Tpython:S14812"5Replace unused local variable "numFeatures" with "_".(ÁÉƒç8ç™€êª1
+python:S117?"\Rename this local variable "numFeatures" to match the regular expression ^[_a-z][a-z0-9_]*$.(˜ıŞöÿÿÿÿÿ8ç™€êª1
+~python:S117?"[Rename this local variable "numSamples" to match the regular expression ^[_a-z][a-z0-9_]*$.(˜ıŞöÿÿÿÿÿ8ç™€êª1
+rpython:S1542="SRename function "showLogRegres" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ä÷¢¦8ç™€êª1
+Zpython:PrintStatementUsageA"-Replace print statement by built-in function.(£Âª’8è™€êª1
